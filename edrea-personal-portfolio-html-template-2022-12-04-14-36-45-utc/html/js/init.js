@@ -16,7 +16,7 @@ jQuery(document).ready(function(){
 	edrea_tm_trigger_menu();
 	edrea_tm_about_popup();
 	edrea_tm_portfolio_popup();
-	edrea_tm_news_popup();
+	// edrea_tm_news_popup();
 	edrea_tm_cursor();
 	edrea_tm_imgtosvg();
 	edrea_tm_popup();
